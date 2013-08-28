@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="juk"
+VERSION=4.10.5
+RELEASE=1
+CATEGORY="Audio"
+SUMMARY="KDE music collection manager"
+DESCRIPTION="Part of the KDE multimedia suite"
