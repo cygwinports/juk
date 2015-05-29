@@ -6,3 +6,5 @@ RELEASE=1
 CATEGORY="Audio"
 SUMMARY="KDE music collection manager"
 DESCRIPTION="Part of the KDE multimedia suite"
+
+REQUIRES="kde-runtime"
