@@ -1,10 +1,10 @@
 inherit kde4
 
 NAME="juk"
-VERSION=14.12.3
+VERSION=15.04.3
 RELEASE=1
 CATEGORY="Audio"
 SUMMARY="KDE music collection manager"
 DESCRIPTION="Part of the KDE multimedia suite"
 
-REQUIRES="kde-runtime"
+REQUIRES="kde-runtime phonon-backend-gstreamer"
